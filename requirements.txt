@@ -1,4 +1,13 @@
 pandas 
 numpy
 seaborn
--e .
+matplotlib
+joblib
+scikit-learn
+xgboost
+lightgbm
+gbm
+pandas-profiling
+h2o
+shap
+#-e .
