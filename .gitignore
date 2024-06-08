@@ -54,7 +54,8 @@ cover/
 # Translations
 *.mo
 *.pot
-
+*.html
+*.csv
 # Django stuff:
 *.log
 local_settings.py
@@ -122,6 +123,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.artifacts
 .env
 .venv
 env/
@@ -144,6 +146,25 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Model files
+artifacts/models/*.joblib
+artifacts/models/*.pkl
+
+# Ignore specific large CSV files
+artifacts\Transformed_test.csv
+artifacts\Transformed_train.csv
+artifacts\test.csv
+artifacts\train.csv
+artifacts\Transformed.pkl
+artifacts/models/XGBoost.joblib
+artifacts/models/DecisionTree.joblib
+artifacts/models/GradientBoosting.joblib
+artifacts/models/RandomForest.joblib
+artifacts/EDA_report.html
+
+
+
 
 # Pyre type checker
 .pyre/

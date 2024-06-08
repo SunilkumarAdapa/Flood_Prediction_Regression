@@ -1,0 +1,5 @@
+path/to/large_file filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+artifacts/Transformed_test.csv,artifacts/Transformed_train.csv filter=lfs diff=lfs merge=lfs -text
+artifacts/Transformed_test.csv filter=lfs diff=lfs merge=lfs -text
+artifacts/Transformed_train.csv filter=lfs diff=lfs merge=lfs -text
