@@ -1,1 +1,17 @@
+model:
+  DecisionTree:
+    criterion: 'poisson'
+    max_depth: None
+
+  RandomForest:
+    n_estimators: 100
+    max_depth: None
+
+  GradientBoosting:
+    learning_rate: 0.1
+    n_estimators: 100
+
+  XGBoost:
+    learning_rate: 0.1
+    n_estimators: 100
 
