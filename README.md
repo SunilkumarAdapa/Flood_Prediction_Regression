@@ -1,4 +1,5 @@
-# Flood Prediction Regression[link: https://huggingface.co/spaces/sunil18p31a0101/FloodPredictionRegression]
+
+# Flood Prediction Regression
 
 Flood Prediction Regression is a machine learning project aimed at predicting the probability of floods based on various environmental and infrastructural factors. By leveraging regression techniques, this project seeks to provide accurate flood probability predictions to aid in disaster preparedness and risk management.
 
@@ -46,3 +47,85 @@ WetlandLoss: Tracks the reduction in wetland areas, which naturally help in floo
 InadequatePlanning: Evaluates the shortcomings in urban and regional planning that can exacerbate flood risks.
 
 PoliticalFactors: Considers political influences and policies that impact flood management and preparedness.
+
+
+
+## Authors
+
+- [@Adapa SunilKumar](https://github.com/SunilkumarAdapa)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SunilkumarAdapa/Flood_Prediction_Regression
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## 🚀 About Me
+# About Me
+
+👋 Hello! I'm **Adapa Sunil Kumar**, a passionate data scientist with a strong foundation in predictive modeling and data analysis. My journey in data science is driven by my desire to transform raw data into meaningful insights and solutions that address real-world challenges.
+
+### 🔍 About Me
+I worked on important projects pertaining to supply chain forecasting and solar panel failure prediction during my six-month internship at **Innodatatics**. I'm constantly looking for new chances to use my data science expertise on cutting-edge and significant initiatives.
+
+### 💼 Professional Experience
+- **Internship at Innodatatics:** 
+  - **Solar Panel Fault Predictions:** Developed a predictive model to identify potential faults in solar panels, helping in proactive maintenance and reducing downtime.
+  - **Supply Chain Forecasting:** Created a forecasting model to predict supply chain demands, optimizing inventory management and reducing operational costs.
+
+### 🛠️ Skills & Technologies
+- **Programming Languages:** Python, R
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- **Tools:** Jupyter Notebook, SQL, Git.
+- **Data Science:** Data Visualization, Statistical Analysis, Machine Learning, Deep Learning
+- **Other:** Data Cleaning, Feature Engineering, Model Deployment
+
+### 🌱 Personal Projects
+- **MRI Brain Tumor Classification:** Developed a machine learning model to classify brain tumors using MRI scans, achieving high accuracy in detection and classification.
+- **Flood Prediction:** Built a predictive model for forecasting flood occurrences based on historical weather data, aiding in early warning systems and disaster preparedness.
+
+### 🌟 Interests
+- **Predictive Modeling:** Crafting models that provide actionable insights and forecast trends.
+- **Machine Learning:** Applying ML techniques to solve complex problems and enhance decision-making processes.
+- **Artificial Intelligence:** Exploring AI advancements and their applications in healthcare, environmental science, and more.
+- **Continuous Learning:** Staying updated with the latest in data science and AI through courses, research, and community engagement.
+
+### 📫 Contact Me
+- **Email:** adapasunilkumar123@gmail.com
+- **LinkedIn:** [Adapa Sunil Kumar](https://www.linkedin.com/in/adapasunilkumar/)
+- **GitHub:** [sunilkumar-adapa](https://github.com/SunilkumarAdapa)
+
+I’m enthusiastic about collaborating on data-driven projects and exploring new career opportunities in data science. Let's connect and discuss how we can work together to harness the power of data!
+
+
