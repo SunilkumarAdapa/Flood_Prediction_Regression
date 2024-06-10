@@ -6,6 +6,7 @@ This repository demonstrates a Gradio-based web application for flood prediction
 
 ![Gradio Web App UI](https://github.com/SunilkumarAdapa/Flood_Prediction_Regression/assets/124869127/680c327b-8041-49b5-a243-9ac2dd44bcf2)
 
+## Gradio Web Ui Link[https://huggingface.co/spaces/sunil18p31a0101/FloodPredictionRegression]
 ## Gradio App Screenshots
 
 Here are some screenshots of the app in action:
