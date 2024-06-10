@@ -72,19 +72,19 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Flood_Prediction_Regression
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  pip install -r requirements.txt
 ```
 
-Start the server
+Run the Application
 
 ```bash
-  npm run start
+  python app.py
 ```
 
 
