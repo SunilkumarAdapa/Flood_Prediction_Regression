@@ -56,19 +56,10 @@ PoliticalFactors: Considers political influences and policies that impact flood 
 
 - [@Adapa SunilKumar](https://github.com/SunilkumarAdapa)
 
-
-
-## Deployment
-
-To deploy this project run
-
-
-```bash
-  npm run deploy
-```
 ## Gradio Web App
-Gradio link[https://huggingface.co/spaces/sunil18p31a0101/FloodPredictionRegression]
+![download](https://github.com/SunilkumarAdapa/Flood_Prediction_Regression/assets/124869127/b300199e-35ed-49f1-a07c-d2fd6f1642a4)
 
+Gradio link[https://huggingface.co/spaces/sunil18p31a0101/FloodPredictionRegression]
 
 ## Run Locally
 
