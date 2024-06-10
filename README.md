@@ -1,5 +1,6 @@
 
 # Flood Prediction Regression
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fthinkml.ai%2Fflood-predictions-using-ai%2F&psig=AOvVaw1wedgiN92ht9rS8O9HclUl&ust=1718095880160000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiN7IPU0IYDFQAAAAAdAAAAABAE
 
 Flood Prediction Regression is a machine learning project aimed at predicting the probability of floods based on various environmental and infrastructural factors. By leveraging regression techniques, this project seeks to provide accurate flood probability predictions to aid in disaster preparedness and risk management.
 
